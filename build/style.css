@@ -1,0 +1,11 @@
+
+#myDIV {
+    width: 5.5%;
+    padding: 2.5px;
+    text-align: center;
+    background-color: rgb(198, 194, 194);
+   
+  }
+  .username{
+      border: none;
+  }

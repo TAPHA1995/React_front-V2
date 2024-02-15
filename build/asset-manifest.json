@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5bfd6067.css",
+    "main.js": "/static/js/main.76891ed7.js",
+    "static/js/787.0b5da2f8.chunk.js": "/static/js/787.0b5da2f8.chunk.js",
+    "static/media/hero.svg": "/static/media/hero.bd8cc60a472ee22a06eb03450d8f8792.svg",
+    "static/media/contact.svg": "/static/media/contact.c31560a1b31161d446f85521f42ad2d4.svg",
+    "static/media/MODEL_SONDAGE_CREER_UN.png": "/static/media/MODEL_SONDAGE_CREER_UN.ea3d685938fdcf85b636.png",
+    "static/media/MODEL_SONDAGE.PNG": "/static/media/MODEL_SONDAGE.92d9262c9f9f654baf1f.PNG",
+    "index.html": "/index.html",
+    "main.5bfd6067.css.map": "/static/css/main.5bfd6067.css.map",
+    "main.76891ed7.js.map": "/static/js/main.76891ed7.js.map",
+    "787.0b5da2f8.chunk.js.map": "/static/js/787.0b5da2f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bfd6067.css",
+    "static/js/main.76891ed7.js"
+  ]
+}
